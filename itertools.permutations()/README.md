@@ -1,4 +1,4 @@
-# **[itertools.permutations()](https://www.hackerrank.com/challenges/finding-the-percentage/problem?isFullScreen=true)**
+# **[itertools.permutations()](https://www.hackerrank.com/challenges/itertools-permutations/problem?isFullScreen=true)**
 
   <input type="hidden" id="naderly" name="Writen by: Ahmed Nader" value="https://github.com/naderly">
 

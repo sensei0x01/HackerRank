@@ -9,18 +9,24 @@
 </p>
 
 > Note that `K` is indexed from 0 to `M-1`, where `M` is the number of attributes. <br>
-
+>
 > Note: If two attributes are the same for different rows, for example, if two atheletes are of the same age, print the row that appeared first in the input.
 
 ## Input Format
 
 > The first line contains `N` and `M` separated by a space.<br>
+> 
 > The next `N` lines each contain `M` elements.<br>
+> 
 > The last line contains `K`.
 
 ## Constraints
 
-> `1 ≤ N` ; `M ≤ 100` <br> > `0 ≤ K < M` <br> > `Each element ≤ 100`
+> `1 ≤ N` ; `M ≤ 100` <br>
+>  
+> `0 ≤ K < M` <br>
+>
+> `Each element ≤ 100`
 
 ## Output Format
 

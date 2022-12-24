@@ -1,4 +1,4 @@
-# **[List](https://www.hackerrank.com/challenges/python-lists/problem?isFullScreen=true)**
+# **[Lists](https://www.hackerrank.com/challenges/python-lists/problem?isFullScreen=true)**
 
   <input type="hidden" id="naderly" name="Writen by: Ahmed Nader" value="https://github.com/naderly">
 

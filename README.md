@@ -1,2 +1,2 @@
 # HackerRank
-> In this repo there is a solutions for many of HackerRank problems using a python programming language
+> This repository contains solutions to numerous HackerRank problems using Python programming language.
